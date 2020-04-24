@@ -11,7 +11,7 @@
 	<artifactId>webjar-bluebirdjs</artifactId>
 	<version>3.7.2-SNAPSHOT</version>
 	<description>bluebirdjs polyfill</description>
-	
+
 	<build>
 		<plugins>
 			<plugin>
@@ -20,9 +20,6 @@
 				<executions>
 					<execution>
 						<id>npm-install</id>
-						<configuration>
-							<skip>false</skip>
-						</configuration>
 					</execution>
 				</executions>
 			</plugin>
