@@ -44,7 +44,9 @@
 							<target>
 								<copy todir="${webjar.target}">
 									<fileset dir="${src.rootdir}/node_modules/bluebird" includes="LICENSE,README.md" />
-									<fileset dir="${src.rootdir}/node_modules/bluebird/js/browser" includes="*.*" />
+								</copy>
+								<copy todir="${webjar.target}/dist">
+									<fileset dir="${src.rootdir}/node_modules/bluebird/js/browser" />
 								</copy>
 							</target>
 						</configuration>

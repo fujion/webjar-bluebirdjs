@@ -1,5 +1,5 @@
 {
   "path": {
-    "bluebirdjs": "bluebird.js"
+    "bluebirdjs": "dist/bluebird.js"
   }
 }
