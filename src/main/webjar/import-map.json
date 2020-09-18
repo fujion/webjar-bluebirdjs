@@ -1,5 +1,5 @@
 {
-  "path": {
+  "imports": {
     "bluebirdjs": "dist/bluebird.js"
   }
 }
