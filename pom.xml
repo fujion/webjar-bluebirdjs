@@ -9,7 +9,7 @@
 
 	<name>bluebird</name>
 	<artifactId>webjar-bluebirdjs</artifactId>
-	<version>3.7.2-1</version>
+	<version>3.7.2-10</version>
 	<description>bluebirdjs polyfill</description>
 
 	<build>
